@@ -1,0 +1,16 @@
+.formulario{
+    background-color: beige;
+    width: 45%;
+    height: 350px;
+    border-radius: 7px;
+    margin-top: auto;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+input{
+    align-content: center;
+}
