@@ -59,6 +59,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                 <label for="password">Contraseña</label>
                 <input type="password" class="form-control" placeholder="*" id="password" name="password" required>
             </div>
+            <a href="index.php" class="btn btn-danger"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#e8eaed"><path d="M0 0h24v24H0z" fill="none"/><path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/></svg>Regresar</a>
             <button type="submit" class="btn btn-primary">Crear Cuenta</button>
         </form>
     </div>

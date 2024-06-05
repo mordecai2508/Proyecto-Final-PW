@@ -35,7 +35,7 @@
         <input type="text" name="Clave" placeholder="Contraseña">
         <hr>
 
-        <button type="submit">Iniciar Sesion</button>
+        <button type="submit">Iniciar Sesion     <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" height="24px" viewBox="0 0 24 24" width="24px" fill="#e8eaed"><rect fill="none" height="24" width="24"/><path d="M14.59,7.41L18.17,11H6v2h12.17l-3.59,3.59L16,18l6-6l-6-6L14.59,7.41z M2,6v12h2V6H2z"/></svg></button>
         <a href="register.php" >Crear Cuenta</a>
     </form>
     
